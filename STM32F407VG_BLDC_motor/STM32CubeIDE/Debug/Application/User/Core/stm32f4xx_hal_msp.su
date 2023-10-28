@@ -1,0 +1,4 @@
+D:/Projects/STM32F403-BLDC-motor/STM32F407VG_BLDC_motor/Core/Src/stm32f4xx_hal_msp.c:66:6:HAL_MspInit	16	static
+D:/Projects/STM32F403-BLDC-motor/STM32F407VG_BLDC_motor/Core/Src/stm32f4xx_hal_msp.c:88:6:HAL_TIM_PWM_MspInit	24	static
+D:/Projects/STM32F403-BLDC-motor/STM32F407VG_BLDC_motor/Core/Src/stm32f4xx_hal_msp.c:104:6:HAL_TIM_MspPostInit	40	static
+D:/Projects/STM32F403-BLDC-motor/STM32F407VG_BLDC_motor/Core/Src/stm32f4xx_hal_msp.c:136:6:HAL_TIM_PWM_MspDeInit	16	static
